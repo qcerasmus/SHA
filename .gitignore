@@ -2,6 +2,8 @@
 # @brief Gitignore file
 #
 
-/bin/
-/out/*
-/.vs/*
+bin/
+out/*
+.vs/*
+build/**
+.cache/**
